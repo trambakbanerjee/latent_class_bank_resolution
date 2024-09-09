@@ -1,4 +1,4 @@
-function postSamp = CollGibbsAlgo_ModelCompRev_v2(W,X,Y,M,n)
+function postSamp = CollapsedGibbsAlgo(W,X,Y,M,n)
 
 % Collapsed Gibbs with Data Augmentation Algorithm
 
